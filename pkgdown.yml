@@ -1,0 +1,9 @@
+pandoc: '2.5'
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  refimpact: refimpact.html
+urls:
+  reference: https://docs.ropensci.org/refimpact/reference
+  article: https://docs.ropensci.org/refimpact/articles
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/get_case_studies.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/get_institutions.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/get_tag_types.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/get_tag_values.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/get_units_of_assessment.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/ref_get.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/ref_tags.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/reference/refimpact.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refimpact/articles/refimpact.html</loc>
+  </url>
+</urlset>
